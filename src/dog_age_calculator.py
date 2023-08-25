@@ -2,7 +2,7 @@
 
 def calculate_dog_age(age, size='small'):
     """
-    Calculate a dog's age represented in human years.
+    Calculate a dog's age  represented in human years.
 
     :param age: int, age in actual years
     :param size: str, small or large size of dog
